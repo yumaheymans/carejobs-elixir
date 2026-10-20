@@ -1,0 +1,13 @@
+# Mix build output
+/_build/
+/cover/
+/deps/
+/doc/
+
+# Hex package tarball
+carejobs-*.tar
+
+# Crash dumps and temp files
+erl_crash.dump
+/tmp/
+.DS_Store
